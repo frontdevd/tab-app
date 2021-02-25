@@ -1,0 +1,41 @@
+.MuiTab-root {
+    min-width: 50% !important;
+}
+
+.MuiPaper-root.MuiCard-root.MiPaper-elevation1.MuiPaper-rounded {
+    margin: 10px 0 !important;
+}
+
+.MuiTabs-flexContainer {
+    display: flex;
+    justify-content: space-between;
+}
+
+.MuiTabs-flexContainer a {
+    width: 48%;
+    color: #fff;
+    text-decoration: none;
+    opacity: 1;
+}
+
+.MuiButtonBase-root.MuiTab-root.MuiTab-textColorInherit {
+    width: 100%;
+    max-width: 100%;
+}
+
+.MuiInputBase-input {
+    width: 100%;
+    max-width: 100%;
+}
+
+.MuiInputBase-root {
+    width: 100%;
+}
+
+.MuiBox-root.MuiBox-root-2 {
+    padding: 100px;
+}
+
+.MuiTypography-root.MuiTypography-body1 {
+    margin: 10px 0;
+}

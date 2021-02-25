@@ -1,0 +1,27 @@
+.red * p {
+    color: #aa2b1d;
+}
+
+.orange * p {
+    color: #cc561e;
+}
+
+.blue * p {
+    color: blue;
+}
+
+.yellow * p {
+    color: yellow;
+}
+
+.purple * p {
+    color: #822E81;
+}
+
+.violet * p {
+    color: #392061;
+}
+
+.gray * p {
+    color: #5b6d5b;
+}
